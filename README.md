@@ -199,4 +199,4 @@ python src/train_multiclass.py
 ```
 
 ---
-Made with ❤️ for AI Security
+Made with ❤️ for Cybersecurity & ML
