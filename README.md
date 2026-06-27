@@ -198,17 +198,5 @@ python src/train_binary.py
 python src/train_multiclass.py
 ```
 
-## 📌 Roadmap
-
-- [x] Binary classifier (Normal vs Attack)
-- [x] Multi-class classifier (DoS / Probe / R2L / U2R)
-- [x] CLI tool (single + batch mode)
-- [x] Flask REST API
-- [ ] Docker support
-- [ ] Real-time packet capture (scapy)
-- [ ] XGBoost / Neural Network models
-- [ ] Web dashboard
-
-## 📄 License
-
-MIT
+---
+Made with ❤️ for AI Security
